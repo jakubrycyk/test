@@ -1,0 +1,2 @@
+repos.txt
+origin http://212.182.24.105/rycykj/kontrola.git (fetch) origin http://212.182.24.105/rycykj/kontrola.git (push)
